@@ -2,7 +2,7 @@ package ex_03_Java_Basics;
 
 public class Lab015_Variables {
     public static void main(String[] args) {
-        byte age_Chandan= 32;
+       // byte age_Chandan= 32;
         // 32 here is called literal vzriable
        // short income_per_day= 8000;
         int salary=2600000;
