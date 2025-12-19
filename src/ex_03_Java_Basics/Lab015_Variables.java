@@ -14,9 +14,5 @@ public class Lab015_Variables {
         System.out.printf("Hello my salary is %d and my name is %s", +salary,name);
         System.out.print("Testing sysout print 1");
         System.out.print("Testing sysout print 2");
-        System.out.println("Age" +age_Chandan);
-        System.out.println("Mobile" +mobile_no);
-        System.out.println("Salary per day" +income_per_day);
-        System.out.printf("Grade: " +grade);
     }
 }
